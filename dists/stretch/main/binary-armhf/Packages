@@ -1,17 +1,17 @@
 Package: headlesspi
 Source: headlesspi (0-0)
-Version: 0.1.4
+Version: 0.1.5
 Architecture: armhf
 Maintainer: Ben Pirt <ben.pirt@mime.co.uk>
-Installed-Size: 13086
+Installed-Size: 13085
 Depends: nodejs (>= 4)
 Priority: Optional
-Section: misc
-Filename: pool/main/h/headlesspi/headlesspi_0.1.4_armhf.deb
-Size: 1444814
-SHA256: a56c58a59969725053184768d567e7006ebb79a2e00ce20d912785a686f88557
-SHA1: e5e51b380515faaae0386fec59c888985193e352
-MD5sum: 1fa84300bad9f930d1d9b0c8dcdf336e
+Section: main
+Filename: pool/main/h/headlesspi/headlesspi_0.1.5_armhf.deb
+Size: 1444540
+SHA256: 77663a0afcb65dbb0960d44ddfa1c760e35280f573799fdc01a356c89ae86cca
+SHA1: c6807024ae79a740e8efc64dbfc297ea5f1cc9ff
+MD5sum: c986a9528539cfbf089d399dfdd82962
 Description: A framework to allow easy control of your Raspberry Pi over the network
 
 Package: headlesspi-mearm
@@ -33,18 +33,18 @@ Description: A meta-package to install all MeArm headlessPi apps along with all 
 
 Package: headlesspi-mearm-blockly
 Source: headlesspi-mearm-blockly (0-0)
-Version: 0.0.6
+Version: 0.0.7
 Architecture: armhf
 Maintainer: Ben Pirt <ben.pirt@mime.co.uk>
 Installed-Size: 2985
-Depends: headlesspi (>= 0.1.2), mearm-js (>= 0.0.7)
+Depends: headlesspi (>= 0.1.2), mearm-control (>= 0.0.7)
 Priority: Optional
-Section: misc
-Filename: pool/main/h/headlesspi-mearm-blockly/headlesspi-mearm-blockly_0.0.6_armhf.deb
-Size: 447688
-SHA256: 019fa0043957084680eee1a629c7383e114f2a6f7ea2986f90d6a64eb81deab3
-SHA1: 142c5202e3eb777f6c218af1d4db284fba7f01ed
-MD5sum: 6f20c613c7e79c55d774b2502a831180
+Section: main
+Filename: pool/main/h/headlesspi-mearm-blockly/headlesspi-mearm-blockly_0.0.7_armhf.deb
+Size: 447602
+SHA256: 30f0e969af92a1f7487e06b8a5a85f239faf495b38d78449efb03b38659b353c
+SHA1: 66602ac663a84eaa0927bc49c81b2a310c78a60a
+MD5sum: 8727b9c82dc5f8517ba25d30570fc105
 Description: A headlesspi app to control your MeArm Pi with Blockly in your browser
 
 Package: headlesspi-mearm-javascript
@@ -65,34 +65,34 @@ Description: A headlesspi app to control your MeArm Pi with Javascript in your b
 
 Package: headlesspi-mearm-python
 Source: headlesspi-mearm-python (0-0)
-Version: 0.0.6
+Version: 0.0.7
 Architecture: armhf
 Maintainer: Ben Pirt <ben.pirt@mime.co.uk>
 Installed-Size: 1360
-Depends: headlesspi (>= 0.1.2), mearm-js (>= 0.0.7)
+Depends: headlesspi (>= 0.1.2), mearm-control (>= 0.0.7)
 Priority: Optional
-Section: misc
-Filename: pool/main/h/headlesspi-mearm-python/headlesspi-mearm-python_0.0.6_armhf.deb
-Size: 302684
-SHA256: 9a7e67a18f5a27a380c2ebfd11d42d13ddd7bff1200805550f7091d7eb191453
-SHA1: 5c895aa0451d0ba68207eca9270eca5f12c9146f
-MD5sum: 6dd0c04d6176db774d44010ab44bad1b
+Section: main
+Filename: pool/main/h/headlesspi-mearm-python/headlesspi-mearm-python_0.0.7_armhf.deb
+Size: 302702
+SHA256: 8b1dbda18ff9449b3b95dec52ae4d662b817f4235da3562e2562c35f6f4a2698
+SHA1: cfdf4359ea90e4fb849edfea2946769b2e48e3f6
+MD5sum: 66283d1588377102a9bd572218528abe
 Description: A headlesspi app to control your MeArm Pi with Python in your browser
 
 Package: headlesspi-mearm-snap
 Source: headlesspi-mearm-snap (0-0)
-Version: 0.0.5
+Version: 0.0.6
 Architecture: armhf
 Maintainer: Ben Pirt <ben.pirt@mime.co.uk>
 Installed-Size: 6615
-Depends: headlesspi (>= 0.1.2), mearm-js (>= 0.0.7)
+Depends: headlesspi (>= 0.1.2), mearm-control (>= 0.0.7)
 Priority: Optional
-Section: misc
-Filename: pool/main/h/headlesspi-mearm-snap/headlesspi-mearm-snap_0.0.5_armhf.deb
-Size: 3655226
-SHA256: fd6bf0bfa73274b596e846abb0593c8ec7b86402aaeb205fcef292ab5c775db7
-SHA1: c50188adca19fdc91fd9f33e47adbc7f045075d7
-MD5sum: 1443fae58695d5e40b71f6e0cf2c1f34
+Section: main
+Filename: pool/main/h/headlesspi-mearm-snap/headlesspi-mearm-snap_0.0.6_armhf.deb
+Size: 3655228
+SHA256: 9d5f7ba326ce6dc095325328f91dbf8e9e1fe4d80fea18b12b468109092f777e
+SHA1: 29a22bade453c0760917eafaf2ef2ac46142f559
+MD5sum: 8ed92f2ba771397eeabf7eeeed9a6cb5
 Description: A headlesspi app to control your MeArm Pi with Snap! in your browser
 
 Package: headlesspi-wetty
@@ -111,19 +111,19 @@ SHA1: b0601761ba8fd467ef6081e7a07cf3ff912282ea
 MD5sum: 2c91448d4368fab8d5e863cb6879eb47
 Description: An app for headlessPi that lets you access your terminal in the browser
 
-Package: mearm-js
-Source: mearm-js (0-0)
+Package: mearm-control
+Source: mearm-control (0-0)
 Version: 0.0.10
 Architecture: armhf
 Maintainer: Ben Pirt <ben.pirt@mime.co.uk>
 Installed-Size: 14900
 Depends: nodejs (>= 4), pigpio (>= 1.64-1)
 Priority: Optional
-Section: misc
-Filename: pool/main/m/mearm-js/mearm-js_0.0.10_armhf.deb
-Size: 5487852
-SHA256: f833d48de0208f410ba5160cb9f606e9153007a63e67162a450b4fb1ff6536aa
-SHA1: 61492ebcf4cb7481805c570a41930c809cfaedb1
-MD5sum: ea4ed3efe0cc05774a667353c1c4aa03
-Description: Control the MeArm with JS
+Section: main
+Filename: pool/main/m/mearm-control/mearm-control_0.0.10_armhf.deb
+Size: 5488508
+SHA256: d5e572a4b6bb7d4a51eda303a6717e8cd3fef272109923d9079715c87153756e
+SHA1: cdc55c01d55578124e7af35397e96efa1883e12e
+MD5sum: 4d37d360e2379ffd6b9887445883fa3f
+Description: Control the MeArm
 
