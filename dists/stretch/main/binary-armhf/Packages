@@ -15,20 +15,20 @@ MD5sum: c986a9528539cfbf089d399dfdd82962
 Description: A framework to allow easy control of your Raspberry Pi over the network
 
 Package: headlesspi-mearm
-Version: 1.0.0
+Version: 1.0.1
 Architecture: all
 Maintainer: Ben Pirt <ben.pirt@mime.co.uk>
 Installed-Size: 9
-Depends: headlesspi-mearm-blockly, headlesspi-mearm-python, headlesspi-mearm-javascript, headlesspi-mearm-snap
+Depends: headlesspi-mearm-blockly, headlesspi-mearm-python, headlesspi-mearm-javascript, headlesspi-mearm-snap, headlesspi-wetty
 Multi-Arch: foreign
 Homepage: http://mime.co.uk
 Priority: Optional
-Section: misc
-Filename: pool/main/h/headlesspi-mearm/headlesspi-mearm_1.0.0_all.deb
-Size: 2150
-SHA256: 43c79c8a3d4dd126c533ee73270f43271f499ba197ba66d9dd97585def2068b1
-SHA1: 61e12e51c31f39bdf65d2b29c0f2aee08faca041
-MD5sum: 0a424627b7268320cf37368eeb93e616
+Section: main
+Filename: pool/main/h/headlesspi-mearm/headlesspi-mearm_1.0.1_all.deb
+Size: 2170
+SHA256: c72451167edc01ff9e3e616386eeb2560b87e8d267887dc45ba17a6762af0498
+SHA1: 3e1e37b1b2cf667343662e46351ff8dbdf03468f
+MD5sum: 13f4926e62c3929691900c16d325b148
 Description: A meta-package to install all MeArm headlessPi apps along with all dependencies
 
 Package: headlesspi-mearm-blockly
