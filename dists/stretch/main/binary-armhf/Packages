@@ -53,14 +53,14 @@ Version: 0.0.7
 Architecture: armhf
 Maintainer: Ben Pirt <ben.pirt@mime.co.uk>
 Installed-Size: 744
-Depends: headlesspi (>= 0.1.2)
+Depends: headlesspi (>= 0.1.2), mearm-js (>= 0.0.7)
 Priority: Optional
-Section: misc
+Section: main
 Filename: pool/main/h/headlesspi-mearm-javascript/headlesspi-mearm-javascript_0.0.7_armhf.deb
-Size: 210658
-SHA256: 75d0393da882d9ec2641a25420a45ba3191c4672bb6b78623f1a28443f96c038
-SHA1: 699480658b3bc5004d071a2c02095dc0ee80e691
-MD5sum: 12959768512154fc222603e7330ceb01
+Size: 210618
+SHA256: 37f2cc38a706a0d540d84c103f0d29921b5beb12a40534f71f7e1fa9efea7f4d
+SHA1: befe6c3da65d57db75f49b1425e5a4fbde857ba8
+MD5sum: 64185eec4c86766c732bba53135d83c2
 Description: A headlesspi app to control your MeArm Pi with Javascript in your browser
 
 Package: headlesspi-mearm-python
