@@ -49,18 +49,18 @@ Description: A headlesspi app to control your MeArm Pi with Blockly in your brow
 
 Package: headlesspi-mearm-javascript
 Source: headlesspi-mearm-javascript (0-0)
-Version: 0.0.7
+Version: 0.0.8
 Architecture: armhf
 Maintainer: Ben Pirt <ben.pirt@mime.co.uk>
 Installed-Size: 744
-Depends: headlesspi (>= 0.1.2), mearm-js (>= 0.0.7)
+Depends: headlesspi (>= 0.1.2), mearm-control (>= 0.0.7)
 Priority: Optional
 Section: main
-Filename: pool/main/h/headlesspi-mearm-javascript/headlesspi-mearm-javascript_0.0.7_armhf.deb
+Filename: pool/main/h/headlesspi-mearm-javascript/headlesspi-mearm-javascript_0.0.8_armhf.deb
 Size: 210618
-SHA256: 37f2cc38a706a0d540d84c103f0d29921b5beb12a40534f71f7e1fa9efea7f4d
-SHA1: befe6c3da65d57db75f49b1425e5a4fbde857ba8
-MD5sum: 64185eec4c86766c732bba53135d83c2
+SHA256: 74557f64cc8c48a02da2442014c5c4172e800cb60e456bab3209e5dc6ea35fb8
+SHA1: 13d27b2c29a932e0d5d119f7f08e1ae947e398e1
+MD5sum: cb236bcd6eac900c729d9457a94f1fc2
 Description: A headlesspi app to control your MeArm Pi with Javascript in your browser
 
 Package: headlesspi-mearm-python
