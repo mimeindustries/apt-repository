@@ -1,0 +1,3 @@
+#!/bin/bash
+
+reprepro -b . -S main -P Optional includedeb stretch $1
