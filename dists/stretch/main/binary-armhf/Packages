@@ -113,17 +113,17 @@ Description: An app for headlessPi that lets you access your terminal in the bro
 
 Package: mearm-control
 Source: mearm-control (0-0)
-Version: 0.0.12
+Version: 0.0.13
 Architecture: armhf
 Maintainer: Ben Pirt <ben.pirt@mime.co.uk>
 Installed-Size: 14900
 Depends: nodejs (>= 4), pigpio (>= 1.64-1)
 Priority: Optional
 Section: main
-Filename: pool/main/m/mearm-control/mearm-control_0.0.12_armhf.deb
-Size: 5488008
-SHA256: 872469b90eebc3719a292b7afa53019309f0a8428e076765e57c295409a5079f
-SHA1: 4dde4f3c18ec458a7258864e4c3a1cd6ba7fdaf8
-MD5sum: 260652bcdb2c4750f1d72c1c436b398a
+Filename: pool/main/m/mearm-control/mearm-control_0.0.13_armhf.deb
+Size: 5487638
+SHA256: d37e89c64a75d73057053ae68aa6c5c39cd2fb3f366039c149ca421c681b7e8c
+SHA1: 258198c0f580f7b54fa89a10f1093b59211bfb45
+MD5sum: 3cbe2034b9693c50b885318439bde984
 Description: Control the MeArm
 
