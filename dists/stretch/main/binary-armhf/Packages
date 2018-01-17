@@ -1,17 +1,17 @@
 Package: headlesspi
 Source: headlesspi (0-0)
-Version: 0.1.6
+Version: 0.1.7
 Architecture: armhf
 Maintainer: Ben Pirt <ben.pirt@mime.co.uk>
-Installed-Size: 13084
+Installed-Size: 13085
 Depends: nodejs (>= 4)
 Priority: Optional
 Section: main
-Filename: pool/main/h/headlesspi/headlesspi_0.1.6_armhf.deb
-Size: 1444262
-SHA256: 21f712d460258ca9fe34cdc4bc3f5c759c3032f3e94e7b41f6fdef1639bced6e
-SHA1: 0ed9e6d8cd494dbdd07fc522fba65a4735d3eb3f
-MD5sum: 445cda5122aff36622ce31a18610bc75
+Filename: pool/main/h/headlesspi/headlesspi_0.1.7_armhf.deb
+Size: 1444440
+SHA256: 14f78e0b1bb6467595b61e69e1f6ba09e4c4f907c97597e65f72b1286783cfb6
+SHA1: 865b628195408c89ec5d1a8b0e18191b134ac21b
+MD5sum: f5c2d213542e967581f723a3b2a08fe6
 Description: A framework to allow easy control of your Raspberry Pi over the network
 
 Package: headlesspi-mearm
