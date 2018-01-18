@@ -97,18 +97,18 @@ Description: A headlesspi app to control your MeArm Pi with Snap! in your browse
 
 Package: headlesspi-wetty
 Source: headlesspi-wetty (0-0)
-Version: 0.0.1
+Version: 0.0.2
 Architecture: armhf
 Maintainer: Ben Pirt <ben.pirt@mime.co.uk>
 Installed-Size: 9035
 Depends: nodejs (>= 4)
 Priority: Optional
-Section: misc
-Filename: pool/main/h/headlesspi-wetty/headlesspi-wetty_0.0.1_armhf.deb
-Size: 3509386
-SHA256: 220280c8aa3da12bafcf9cb73872cc3a494a3d91afbfd4859f6bd82569f0c020
-SHA1: b0601761ba8fd467ef6081e7a07cf3ff912282ea
-MD5sum: 2c91448d4368fab8d5e863cb6879eb47
+Section: main
+Filename: pool/main/h/headlesspi-wetty/headlesspi-wetty_0.0.2_armhf.deb
+Size: 3509118
+SHA256: ca8e148ad33345c54e6fa9911a2ccf5efe32f97caee7fe1ac72abe869187b640
+SHA1: ac95d101c5e19e6149e7217960015fe9c7772891
+MD5sum: 20248ba99aa730ec0ec2361e1f2cf83e
 Description: An app for headlessPi that lets you access your terminal in the browser
 
 Package: mearm-control
